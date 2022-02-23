@@ -161,8 +161,8 @@ O comando final deve ter essa estrutura :
 
 <aside>
 💡  <b>Não copie o comando abaixo. Utilize isso apenas como exemplo, pois as versões podem mudar</b>
-
 </aside>
+
 ```bash
 yarn add -D @typescript-eslint/eslint-plugin@latest eslint-config-airbnb-base@latest eslint-plugin-import@^2.22.1 @typescript-eslint/parser@latest
 ```
